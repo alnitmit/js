@@ -8,6 +8,7 @@
 */
 
 let dice1 // your code
+
 let dice2 // your code
 let isWinningDouble // your code
 
