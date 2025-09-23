@@ -30,4 +30,5 @@ const filter = (array, callBack) => {
         result.push(array[i]);
         }
     }
+    return result;
 }
