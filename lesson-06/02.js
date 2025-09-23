@@ -13,15 +13,17 @@
 */
 
 /*
-Пример использования вашей функции:
+пример использования вашей функции:
 
 const numbers = [1, 2, 3, 4, 5]
 
-const doubledNumbers = map(numbers, (element, index) => {
+const doublednumbers = map(numbers, (element, index) => {
   return element * 2
 })
 
-console.log(doubledNumbers) // Должен вывести: [2, 4, 6, 8, 10]
+console.log(doublednumbers) // должен вывести: [2, 4, 6, 8, 10]
 */
 
-const map = () => {}
+const map = (array, callBack) => {
+
+}
